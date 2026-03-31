@@ -15,7 +15,7 @@
   css/
     style.css
   images/
-    hero-food.jpg      (hero banner background - any food/kitchen photo)
+    hero-food.jpg      (hero banner background )
     dal.jpg
     sabzi.jpg
     rice.jpg
