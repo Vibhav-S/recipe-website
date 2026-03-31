@@ -21,14 +21,4 @@
     rice.jpg
     roti.jpg
     khichdi.jpg
-```
 
-## Images
-Add your own food images in the `images/` folder with the filenames listed above.
-You can download free images from https://unsplash.com or https://pexels.com
-
-## GitHub Pages Deployment
-1. Create a new GitHub repository
-2. Upload all files maintaining the folder structure above
-3. Go to Settings > Pages > Select main branch > Save
-4. Your site will be live at: https://yourusername.github.io/recipe-website
